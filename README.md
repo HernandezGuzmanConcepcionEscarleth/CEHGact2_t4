@@ -133,7 +133,7 @@ config.nombre=Sistema de Empleados - Concepcion Escarleth Hernandez
 ## Capturas de pantalla
 
 ### Lista con th:each y @Value
-![Lista](img/capturaslista.jpeg)
+![Lista](img/capturaslista..jpeg)
 
 ### Formulario con @ModelAttribute
 ![Formulario](img/formulario.jpeg)
