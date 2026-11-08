@@ -1,6 +1,6 @@
 # CEHGact2_t4
 
-**Autora:** Concepcion Escarleth Hernandez
+**Autora:** Concepción Escarleth Hernández Guzmán
 
 **Actividad:** Act2. Spring MVC y Vistas con Thymeleaf, DTOs y Manejo de Peticiones
 
