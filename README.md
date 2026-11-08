@@ -159,7 +159,7 @@ config.nombre=Sistema de Empleados - Concepcion Escarleth Hernandez
 .\mvnw.cmd spring-boot:run
 ```
 
-Después abro `http://localhost:8084/detalles_info` en el navegador.
+Después abro `http://localhost:8084/proyecto` en el navegador.
 
 ## Despliegue en el VPS
 
