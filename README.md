@@ -2,7 +2,7 @@
 
 **Autora:** Concepcion Escarleth Hernandez
 
-**Actividad:** Act2. Spring MVC, Thymeleaf y anotaciones de controlador
+**Actividad:** Act2. Spring MVC y Vistas con Thymeleaf, DTOs y Manejo de Peticiones
 
 ## Descripción
 
