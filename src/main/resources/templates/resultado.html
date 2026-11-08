@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultado</title>
+</head>
+<body>
+    <h1>Empleado recibido</h1>
+    <h2 th:text="${proyecto}"></h2>
+    <ul>
+        <li>Nombre: <span th:text="${recibido.nombre}"></span></li>
+        <li>Apellido: <span th:text="${recibido.apellido}"></span></li>
+        <li>Dirección: <span th:text="${recibido.direccion}"></span></li>
+        <li>Puesto: <span th:text="${recibido.puesto}"></span></li>
+        <li>Edad: <span th:text="${recibido.edad}"></span></li>
+        <li>Teléfono: <span th:text="${recibido.telefono}"></span></li>
+    </ul>
+    <a th:href="@{/formulario}">Volver</a>
+</body>
+</html>
