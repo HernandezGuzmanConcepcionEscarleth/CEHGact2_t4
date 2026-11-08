@@ -183,7 +183,7 @@ ss -tlnp | grep java
 | Descripción | Enlace |
 |---|---|
 | Lista de empleados | http://179.197.82.130:8084/detalles_info |
-| Formulario | http://179.197.82.130:8084/formulario |
+| Formulario @ModelAttribute | http://179.197.82.130:8084/formulario |
 | @RequestParam | http://179.197.82.130:8084/api/parametros/detalle?informacion=Saludos |
 | @PathVariable | http://179.197.82.130:8084/api/variable/pagina1/hola |
 | Actividad 1 (sigue activa) | http://179.197.82.130:8081/detalles_info |
